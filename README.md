@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Template Name: NiceAdmin
+Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
